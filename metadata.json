@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Archive 电影档案馆",
+  "description": "Films, Memories and Dreams. 电影、记忆与梦境的归档。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
